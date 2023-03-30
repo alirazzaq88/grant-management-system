@@ -31,9 +31,8 @@
   {
    "default": "Principle Investigator",
    "fieldname": "default_principal_investigator_module_profile",
-   "fieldtype": "Link",
-   "label": "Default Principal Investigator Module Profile",
-   "options": "Module Profile"
+   "fieldtype": "Data",
+   "label": "Default Principal Investigator Module Profile"
   },
   {
    "fieldname": "column_break_2",
